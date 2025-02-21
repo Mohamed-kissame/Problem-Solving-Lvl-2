@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mkiss\\OneDrive\\Bureau\\algorithem \u0026 Problem solving 2\\PROBLEM 49\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EED1A7BA-7205-4CE6-9CF9-93BE0DB2AA21}|PROBLEM 49\\PROBLEM 49.vcxproj|C:\\Users\\mkiss\\OneDrive\\Bureau\\algorithem \u0026 Problem solving 2\\PROBLEM 49\\PROBLEM 49\\PROBLEM 49.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EED1A7BA-7205-4CE6-9CF9-93BE0DB2AA21}|PROBLEM 49\\PROBLEM 49.vcxproj|solutionrelative:PROBLEM 49\\PROBLEM 49.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PROBLEM 49.cpp",
+              "DocumentMoniker": "C:\\Users\\mkiss\\OneDrive\\Bureau\\algorithem \u0026 Problem solving 2\\PROBLEM 49\\PROBLEM 49\\PROBLEM 49.cpp",
+              "RelativeDocumentMoniker": "PROBLEM 49\\PROBLEM 49.cpp",
+              "ToolTip": "C:\\Users\\mkiss\\OneDrive\\Bureau\\algorithem \u0026 Problem solving 2\\PROBLEM 49\\PROBLEM 49\\PROBLEM 49.cpp*",
+              "RelativeToolTip": "PROBLEM 49\\PROBLEM 49.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-05T16:18:18.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

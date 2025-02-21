@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mkiss\\OneDrive\\Bureau\\algorithem \u0026 Problem solving 2\\PROBLEM 22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05A97FE8-3F50-40F9-A8A6-A63131888F81}|PROBLEM 22\\PROBLEM 22.vcxproj|C:\\Users\\mkiss\\OneDrive\\Bureau\\algorithem \u0026 Problem solving 2\\PROBLEM 22\\PROBLEM 22\\PROBLEM 22.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05A97FE8-3F50-40F9-A8A6-A63131888F81}|PROBLEM 22\\PROBLEM 22.vcxproj|solutionrelative:PROBLEM 22\\PROBLEM 22.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PROBLEM 22.cpp",
+              "DocumentMoniker": "C:\\Users\\mkiss\\OneDrive\\Bureau\\algorithem \u0026 Problem solving 2\\PROBLEM 22\\PROBLEM 22\\PROBLEM 22.cpp",
+              "RelativeDocumentMoniker": "PROBLEM 22\\PROBLEM 22.cpp",
+              "ToolTip": "C:\\Users\\mkiss\\OneDrive\\Bureau\\algorithem \u0026 Problem solving 2\\PROBLEM 22\\PROBLEM 22\\PROBLEM 22.cpp",
+              "RelativeToolTip": "PROBLEM 22\\PROBLEM 22.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T15:20:19.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

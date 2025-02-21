@@ -1,0 +1,4 @@
+﻿  PROBLEM 47.cpp
+C:\Users\mkiss\OneDrive\Bureau\algorithem & Problem solving 2\PROBLEM 47\PROBLEM 47\PROBLEM 47.cpp(21,11): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+C:\Users\mkiss\OneDrive\Bureau\algorithem & Problem solving 2\PROBLEM 47\PROBLEM 47\PROBLEM 47.cpp(23,11): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  PROBLEM 47.vcxproj -> C:\Users\mkiss\OneDrive\Bureau\algorithem & Problem solving 2\PROBLEM 47\x64\Debug\PROBLEM 47.exe
